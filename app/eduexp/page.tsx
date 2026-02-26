@@ -20,42 +20,42 @@ export default function EduExp() {
           <p className="mt-2 text-[18px] font-semibold">
             UI/UX Designer
           </p>
-          <p className="text-[#9a9a9f] text-[15px]">
+          <p className="text-[#7D7373] text-[15px]">
             Freelance
           </p>
 
           <p className="mt-3 text-[18px] font-semibold">
             Fullstack Web Developer
           </p>
-          <p className="text-[#9a9a9f] text-[15px]">
+          <p className="text-[#7D7373] text-[15px]">
             Freelance
           </p>
         </div>
 
         {/* University */}
         <div>
-          <p className="text-[#9a9a9f] text-[16px]">
+          <p className="text-[#7D7373] text-[16px]">
             2022 - 2025
           </p>
 
           <p className="mt-2 text-[18px] font-semibold">
             Bachelor Degree in Computer Engineering
           </p>
-          <p className="text-[#9a9a9f] text-[15px]">
+          <p className="text-[#7D7373] text-[15px]">
             Southeast Asia University
           </p>
         </div>
 
         {/* High School */}
         <div>
-          <p className="text-[#9a9a9f] text-[16px]">
+          <p className="text-[#7D7373] text-[16px]">
             2016 - 2021
           </p>
 
           <p className="mt-2 text-[18px] font-semibold">
             High school
           </p>
-          <p className="text-[#9a9a9f] text-[15px]">
+          <p className="text-[#7D7373] text-[15px]">
             Suksanareewittaya School
           </p>
         </div>

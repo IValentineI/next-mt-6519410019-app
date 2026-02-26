@@ -83,7 +83,7 @@ function InputField({
         className={`
           w-full
           bg-transparent
-          border-b border-[#3a3a3f]
+          border-b border-[#7D7373]
           focus:outline-none
           focus:border-[#ff6a00]
           text-[15px]

@@ -19,7 +19,7 @@ export default function Projects() {
         </h2>
 
         {/* Description */}
-        <p className="mt-3 text-[15px] leading-[24px] text-[#9a9a9f] max-w-[640px]">
+        <p className="mt-3 text-[15px] leading-[24px] text-[#7D7373] max-w-[640px]">
           Here’s my latest project built with Next.js and Laravel, using
           TailwindCSS on the front-end. Watch the video to see the
           responsive landing page in action!

@@ -37,7 +37,7 @@ export default function Specializations() {
                 <h3 className="text-xl font-bold text-white group-hover:text-[#ff5722] transition-colors">
                   {spec.title}
                 </h3>
-                <p className="text-[#8c8c8c] text-sm max-w-125">
+                <p className="text-[#7D7373] text-sm max-w-125">
                   {spec.description}
                 </p>
               </div>

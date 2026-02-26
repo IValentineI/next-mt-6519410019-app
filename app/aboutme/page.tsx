@@ -21,7 +21,7 @@ export default function About() {
       </h1>
 
       {/* Paragraph */}
-      <p className="mt-6 text-[15px] leading-[26px] text-[#9a9a9f] max-w-[680px]">
+      <p className="mt-6 text-[15px] leading-[26px] text-[#7D7373] max-w-[680px]">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto maxime
         tempora at neque a adipisci nulla voluptatem? Mollitia, officiis,
         architecto earum voluptates obcaecati corrupti voluptatem. Lorem ipsum
