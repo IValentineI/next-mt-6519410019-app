@@ -14,12 +14,12 @@ import {
 
 const menus = [
   { icon: <FaHome />, path: "/", title: "Home" },
-  { icon: <FaUser />, path: "/aboutme", title: "About Me" },
+  { icon: <FaUser />, path: "/aboutme", title: "About" },
   { icon: <FaLayerGroup />, path: "/eduexp", title: "Education & Experience" },
   { icon: <FaBars />, path: "/spec", title: "Specification" },
   { icon: <FaBriefcase />, path: "/projects", title: "Projects" },
   { icon: <FaProjectDiagram />, path: "/skills", title: "Skills" },
-  { icon: <FaEnvelope />, path: "/contactme", title: "Contact Me" },
+  { icon: <FaEnvelope />, path: "/contactme", title: "Contact" },
 ];
 
 export default function SideMenu() {

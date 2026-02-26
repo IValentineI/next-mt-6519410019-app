@@ -13,13 +13,13 @@ import My_Profile from "@/assets/images/MyProfile2.png";
 
 export default function MyCard() {
   return (
-    <div className="w-[320px] bg-#1D1C1D border border-[#2a2a2e] rounded-[20px] p-6 shadow-xl">
+    <div className="w-[395px] h-[695px] bg-#1D1C1D border border-[#2a2a2e] rounded-[20px] p-6 shadow-xl">
       <h2 className="text-[28px] tracking-wide text-white mb-1">
         <span className="text-[#ff6a00]">N</span>atthawut
       </h2>
 
       <div className="rounded-2xl overflow-hidden">
-        <Image src={My_Profile} alt="myprofile" width={325} height={324} />
+        <Image src={My_Profile} alt="myprofile" width={395} height={324} />
       </div>
 
       <p className="mt-2 text-[20px] text-[#cfcfd4] text-center">
@@ -83,6 +83,7 @@ export default function MyCard() {
                       hover:bg-[#ff7a1a] transition
                       rounded-2xl py-3
                       text-black tracking-wider text-[18px]"
+        onClick={() => window.open("/contactme", "_blank")}
       >
         HIRE ME !
       </button>
